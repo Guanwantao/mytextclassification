@@ -1,0 +1,1 @@
+基于Spark Streaming读取Kafka数据的处理方法 本发明公开了一种基于Spark?Streaming读取Kafka数据的处理方法，包括如下步骤：S1)利用Kafka将数据存储在话题中；S2)利用Spark?Streaming把实时输入数据流以时间片为单位切分成块；S3)预先根据Kafka数据失败记录数，设置SparkStreaming补数调度时间；S4)实时监控SparkStreaming读取Kafka数据过程；S5)通过SparkStreaming重新读取Kafka数据。本发明根据Kafka数据失败记录数设置SparkStreaming补数调度时间，实时监控读取过程并重新读取失败记录数进行补数，更加灵活、便捷地做到零丢数保证。

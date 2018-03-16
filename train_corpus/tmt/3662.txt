@@ -1,0 +1,1 @@
+可扩展的可信用户接口、方法和电子设备 本发明涉及可扩展的可信用户接口(xTUI)，其包括布置在REE端的应用服务xTUI?Agent和布置在TEE端的xTUI?Container，其中，xTUI?Agent将REE端获取的xTUI布局文件传输至xTUI?Container，xTUI?Container对该xTUI布局文件进行解析和执行。本发明还涉及一种用于运行可扩展的可信用户接口的方法和一种包括可扩展的可信用户接口的电子设备。

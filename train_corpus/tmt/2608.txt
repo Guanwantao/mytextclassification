@@ -1,0 +1,1 @@
+一种基于指纹传感器的ESD防护结构 本实用新型提供的一种基于指纹传感器的ESD防护结构，包括：具有GND?WALL结构的ESD防护模型和具有金凸块结构的ESD防护模型。所述具有GND?WALL结构的ESD防护模型结构包括：传感器矩阵sensor?array、地网gnd?ring和地环GND?WALL；所述具有金凸块结构的ESD防护模型结构包括：传感器矩阵sensor?array、地网gnd?ring、地环GND?WALL、金网和金凸块。本专利具有金凸块结构的ESD防护模型结构，含有金网和铝网两层金属网，能顺利泄放掉ESD效应时的电流。

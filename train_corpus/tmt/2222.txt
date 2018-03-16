@@ -1,0 +1,1 @@
+一种基于FPGA True LVDS接口的MIPI接口电路及其运行方法 本发明涉及一种基于FPGA?True?LVDS接口的MIPI接口电路及其运行方法，包括FPGA芯片、MIPI接口接收设备，通过电阻R1连接True?LVDS接口的HS_O_P高速信号和LVCMOS12接口的LP_O_P低速信号，电阻R1阻值范围50Ω~150Ω；通过电阻R2连接True?LVDS接口的HS_O_N高速信号和LVCMOS12接口的LP_O_N低速信号，电阻R2阻值范围50Ω~150Ω。本发明通过True?LVDS接口、LVCMOS12接口与外围电阻的优化设计，实现了FPGA与MIPI接口接收设备间发送通路的高效数据传输，信号完整性好，传输速率高，功耗小，电阻数量少。

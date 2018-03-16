@@ -1,0 +1,1 @@
+一种基于Hadoop MapReduce编程框架的数据统计排重的方法 本发明公开一种基于Hadoop?MapReduce编程框架的数据统计排重的方法，该方法基于Hadoop?MapReduce编程框架的key和value的划分机制，包括步骤：(1)每个map分别处理各自分区的数据，将数据对象object和其对应的每个attribute分别结合，形成不同的关键词key；将每个属性attribute对应的权重weight划分为其与object结合形成的key的权值value，从而形成key/value对；(2)按照key将数据划分到不同的reduce分区，并对不同的reduce分区的数据分别按照key排序；(3)将步骤(2)的数据写回该map节点的磁盘。

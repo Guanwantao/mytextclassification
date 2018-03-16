@@ -1,0 +1,1 @@
+一种NandFLASH走线拓扑结构 本实用新型公开了一种Nand?FLASH?走线拓扑结构，包括多个Nand?Flash芯片，所述多个Nand?Flash芯片并排摆放，连接线LineA1、LineA2、LineA3和LineAA4将多个Nand?Flash芯片连接到一起。所述连接线LineA1、LineA2、LineA3和LineAA4是等长的。本实用新型走线方式能够减短stub，能够达到速率200M或更高的信号质量要求，且绕线长度短于传统的树型结构。让Layout工程师能够在有限的空间内完成多片Nand?Flash的走线工作。通过这种方式能够满足Nand?Flash对信号质量的要求解决狭小空间内树型结构绕线不出的情况。增进产品质量减小Layout工程师工作压力和工作量。

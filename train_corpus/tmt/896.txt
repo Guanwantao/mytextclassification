@@ -1,0 +1,1 @@
+一种解析HTTP chunked编码数据的方法 本发明涉及一种解析HTTP?chunked编码数据的方法，包括：定位到所接收的HTTP报文中任一chunk的起始位置；根据当前的解析状态对chunk中的chunk-size字段的长度进行预测；根据前一步骤所得到的预测长度读取相应长度的chunk-size数据并缓存，对当前缓存的全部chunk-size数据加以分析，根据分析结果判断是否已经完成对整个chunk-size字段的读取，若已完成，执行下一步，否则，基于当前缓存的全部chunk-size数据分析解析状态，并重新执行长度预测步骤；根据整个chunk-size字段值，读取chunk-data中的数据。

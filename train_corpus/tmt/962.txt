@@ -1,0 +1,1 @@
+一种DDoS攻击检测系统 本发明涉及一种综合了DoS(拒绝服务)和DDoS(分布式拒绝服务)两类安全攻击的一体化检测系统：TCP攻击监测通过分析TCP三次握手的连接过程可以识别DoS攻击(即SYN?Flood少量源攻击)，TCP异常检测通过全流量分析客户端和服务器端的流量和连接性能，识别SYN?Flood巨量源攻击检测和Tsunami流量攻击检测；UDP攻击检测包括NTP反射放大型攻击检测和DNS反射放大型攻击检测；HTTPS攻击检测包括SSL?Flood检测、SSL?Alert检测和SSL重协商检测；HTTP攻击检测包括Slow?loris检测、Get?Flood检测、Slow?post检测和Hash?Dos检测。本发明能识别出骨干网络中的攻击流，过滤掉攻击者发送的流量，防止其对目的主机造成危害。

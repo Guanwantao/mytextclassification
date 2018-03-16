@@ -1,0 +1,1 @@
+用于车载GPS的SIM卡座连接电路 本发明公开了一种用于车载GPS的SIM卡座连接电路，包括SIM卡座，SIM卡座包括有CD、VCC、GND、RST、CLK和I/O六个端口，CD端口连接SIM-IN导线，VCC端口连接SIM-VCC导线，GND端口连接SIM-GND导线，RST端口连接SIM-RST导线，CLK端口连接SIM-CLK导线，I/O端口连接SIM-IO导线，SIM-RST导线SIM-CLK导线上均设置有电阻，SIM-IN导线和SIM-VCC导线之间同样设有电阻，SIM卡座上还包括有S1端口和S2端口，S1端口和S2端口通过导线与SIM-GND导线连接。本发明能检测SIM卡的使用电压和保护SIM卡和电路元器件。
