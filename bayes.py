@@ -29,6 +29,8 @@ for flabel, file_name, expct_cate in zip(test_set.label, test_set.filenames, pre
     if flabel != expct_cate:
         print(file_name, ": 实际类别:", flabel, " -->预测类别:", expct_cate)
 
+# 这是添加的为测试－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
 tmtCount=0
 foodCount=0
 engCount=0
